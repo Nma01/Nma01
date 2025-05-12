@@ -1,5 +1,4 @@
-<h1 align="center">Hello! I am Chidinma 💻</h1>
-<h3 align="center"><em>I build things for the web :)</em></h3>
+## 👋 Hi, I am Chidinma Oparah
 
 ---
 
