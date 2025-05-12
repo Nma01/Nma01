@@ -1,12 +1,11 @@
 ## 👋 Hi, I am Chidinma Oparah
 
----
+
 
 I am a frontend developer with a strong base in **HTML**, **CSS**, and **JavaScript**, and I am currently building dynamic user interfaces with **React**.
 
 I have grown through coding bootcamps, personal projects, and a lot of practice and I am passionate about creating beautiful, functional web experiences.
 
----
 
 ### 🔎 About Me
 
@@ -16,7 +15,7 @@ I have grown through coding bootcamps, personal projects, and a lot of practice 
 - 📫 Reach me: [Gmail](oparahchidinma96@gmail.com) • [Twitter](https://x.com/nma_oparah?s=21)
 
 
----
+
 
 ### 🛠️ Tech Stack
 
